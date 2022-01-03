@@ -1,4 +1,4 @@
-from Intermediario.Secao3_Intermediario.modules.limpar_cpf_cnpj import limpar_cpf_cnpj
+from modules.limpar_cpf_cnpj import limpar_cpf_cnpj
 
 
 def preparaCnpj(cnpj):

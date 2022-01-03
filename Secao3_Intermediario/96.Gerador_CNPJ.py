@@ -1,4 +1,2 @@
-from Intermediario.Secao3_Intermediario.modules.geradores.gera import gera_cnpj
-
+from modules.geradores.gera import gera_cnpj
 print(gera_cnpj())
-
